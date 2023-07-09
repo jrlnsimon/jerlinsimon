@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Demo.Azure.Functions.ScheduledMessageTrigger": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7001",
+      "launchBrowser": false
+    }
+  }
+}
